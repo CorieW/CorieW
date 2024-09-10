@@ -9,7 +9,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0000FF?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0000FF?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-0000FF?style=flat-square&logo=scss&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-0000FF?style=flat-square&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0000FF?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0000FF?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-csharp-0000BB?style=flat-square&logo=csharp&logoColor=white" />
