@@ -1,4 +1,4 @@
-<!--## Hi there, I'm Corie, a recent Computer Science Graduate 👋
+## Hi there, I'm Corie, a recent Computer Science Graduate 👋
 
 
 - 🔭 I'm looking for my first job in software/web development
@@ -7,10 +7,7 @@
 - 📫 How to reach me: watson.corie@gmail.com
 - 😄 Pronouns: He/Him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coriew)-->
-
-<h1 align="center">Hi 👋, I'm Corie</h1>
-<h3 align="center">A Computer Science Graduate</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coriew)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
