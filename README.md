@@ -3,8 +3,6 @@
 - 🔭 I'm looking for my first job in software/web development
 - ⚡ I’m currently working on several projects, including [SimpleWorldGen.com](https://github.com/CorieW/SimpleWorldGen.com)
 - 🌱 I’m currently learning AWS
-- 📫 How to reach me: watson.corie@gmail.com
-- 😄 Pronouns: He/Him
 
 <h3 align="left">Primary Skills</h3>
 <p>
