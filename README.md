@@ -32,4 +32,4 @@
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-000055?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coriew&layout=compact&theme=transparent&hide_border=true&card_width=600&hide_title=true&langs_count=100)](https://github.com/coriew/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coriew&layout=compact&theme=transparent&hide_border=true&card_width=900&hide_title=true&langs_count=100)](https://github.com/coriew/github-readme-stats)
