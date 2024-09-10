@@ -33,4 +33,4 @@
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-000055?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coriew&show_icons=true&locale=en&layout=compact" alt="coriew" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coriew&show_icons=true&locale=en&layout=compact&theme=dark" alt="coriew" /></p>
