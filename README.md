@@ -7,8 +7,6 @@
 - 📫 How to reach me: watson.corie@gmail.com
 - 😄 Pronouns: He/Him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coriew)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/corie-watson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corie-watson" height="30" width="40" /></a>
