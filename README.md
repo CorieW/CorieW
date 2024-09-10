@@ -16,7 +16,8 @@
   <img alt="Java" src="https://img.shields.io/badge/-java-0000BB?style=flat-square&logo=java&logoColor=white" />
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET Core-0000BB?style=flat-square&logo=asp.net&logoColor=white" />
   <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity Framework-0000BB?style=flat-square&logo=entity_framework&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000088?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-SQL-000088?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-MySQL-000088?style=flat-square&logo=sql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-000055?style=flat-square&logo=git&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000055?style=flat-square&logo=unity&logoColor=white" />
 </p>
