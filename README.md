@@ -29,7 +29,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-0000BB?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-0000BB?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000088?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-000055?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-000055?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-000055?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
