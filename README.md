@@ -1,4 +1,4 @@
-## Hi there, I'm Corie, a recent Computer Science Graduate 👋
+## Hi there, I'm Corie 👋
 
 - ⚡ I’m currently working on several projects, including [SimpleWorldGen.com](https://github.com/CorieW/SimpleWorldGen.com)
 - 🌱 I’m currently learning Google Cloud and Linux
