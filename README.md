@@ -20,5 +20,3 @@ I'm a Junior Software Engineer at [Invertase](https://invertase.io/), currently 
   <img alt="Git" src="https://img.shields.io/badge/-Git-000066?style=flat-square&logo=git&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000055?style=flat-square&logo=unity&logoColor=white" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coriew&layout=compact&theme=transparent&hide_border=true&card_width=900&hide_title=true&langs_count=100&text_color=ffffff)](https://github.com/coriew/github-readme-stats)
