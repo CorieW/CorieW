@@ -1,6 +1,6 @@
 ## Hi there, I'm Corie 👋
 
-I'm a Junior Software Engineer at [Invertase](https://invertase.io/), currently working on maintaining [Firebase Functions](https://github.com/firebase/firebase-functions) (and some related repositories) and [Firebase Extensions](https://github.com/firebase/extensions).
+I'm a Junior Software Engineer at [Invertase](https://invertase.io/), currently working on maintaining [Firebase Functions](https://github.com/firebase/firebase-functions) (and some related repositories), [Firebase Extensions](https://github.com/firebase/extensions), and [Genkit](https://github.com/genkit-ai/genkit).
 
 <h3 align="left">Primary Skills</h3>
 <p>
