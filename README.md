@@ -57,7 +57,7 @@ I help maintain and improve projects across the Firebase and Google developer ec
 ### Additional skills
 
 <p align="left">
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-21262D?style=for-the-badge&logo=csharp&logoColor=9B72CB&labelColor=0D1117" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-21262D?style=for-the-badge&logo=.net&logoColor=9B72CB&labelColor=0D1117" />
   <img alt="Java" src="https://img.shields.io/badge/Java-21262D?style=for-the-badge&logo=openjdk&logoColor=F89820&labelColor=0D1117" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-21262D?style=for-the-badge&logo=postgresql&logoColor=58A6FF&labelColor=0D1117" />
   <img alt="Git" src="https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" />
