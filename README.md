@@ -30,16 +30,12 @@ I help maintain and improve projects across the Firebase and Google developer ec
 - [Genkit](https://github.com/genkit-ai/genkit)
 - Related open-source developer tooling
 
----
-
 ## Focus areas
 
 - 🔥 Firebase, Google Cloud, and serverless tooling
 - 🧩 Open-source package maintenance and ecosystem improvements
 - 🤖 AI tooling, agents, and developer workflow automation
 - ⚛️ TypeScript and React-based libraries
-
----
 
 ## Skills
 
