@@ -1,18 +1,16 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=190&section=header&text=Corie%20Watson&fontSize=44&fontColor=F0F6FC&animation=twinkling&fontAlignY=35&desc=Junior%20Software%20Engineer%20%7C%20Firebase%20%7C%20TypeScript%20%7C%20AI%20Tooling&descAlignY=57&descSize=16&descColor=8B949E"
-    alt="Corie Watson - Junior Software Engineer | Firebase | TypeScript | AI Tooling"
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=soft&color=161B22&height=75&section=header&text=Corie%20Watson&fontSize=44&fontColor=F0F6FC&fontAlignY=60&descSize=16&descColor=E6EDF3"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Junior+Software+Engineer+at+Invertase;Maintaining+Firebase+Functions%2C+Extensions+%26+Genkit;Building+with+TypeScript%2C+React%2C+Firebase+%26+Google+Cloud;Interested+in+AI+tooling%2C+developer+workflows+%26+open+source"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Junior+Software+Engineer+at+Invertase;Maintaining+Firebase+Functions%2C+Extensions+%26+Genkit;Building+with+TypeScript%2C+React%2C+Firebase+%26+Google+Cloud;Interested+in+AI+tooling%2C+developer+workflows+%26+open+source"
     alt="Animated introduction describing Corie's software engineering work"
   />
 </p>
-
-<h1 align="center">Hi, I'm Corie 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC&labelColor=161B22" />
@@ -20,8 +18,6 @@
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF&labelColor=161B22" />
   <img src="https://img.shields.io/badge/AI%20Tooling-0D1117?style=for-the-badge&logo=anthropic&logoColor=3FB950&labelColor=161B22" />
 </p>
-
-I'm a Junior Software Engineer at [Invertase](https://invertase.io/), working across the Firebase ecosystem, open-source tooling, and AI developer workflows.
 
 ---
 
@@ -45,7 +41,7 @@ I help maintain and improve projects across the Firebase and Google developer ec
 
 ---
 
-## Tech stack
+## Skills
 
 ### Primary skills
 
@@ -59,7 +55,7 @@ I help maintain and improve projects across the Firebase and Google developer ec
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=0D1117" />
 </p>
 
-### Additional tools & languages
+### Additional skills
 
 <p align="left">
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-21262D?style=for-the-badge&logo=csharp&logoColor=9B72CB&labelColor=0D1117" />
