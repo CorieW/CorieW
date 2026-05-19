@@ -49,8 +49,7 @@ I help maintain and improve projects across the Firebase and Google developer ec
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=58A6FF&labelColor=0D1117" />
   <img alt="React" src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117" />
+  <img alt="HTML5/CSS" src="https://img.shields.io/badge/HTML/CSS-161B22?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=0D1117" />
 </p>
